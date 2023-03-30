@@ -1,0 +1,93 @@
+"ResponseId","country","colonzing_status","in_country_collections.p","international_specimens_databased.p","international_specimens_imaged.p"
+"R_1FmJOyP5QJzBjF8","Argentina","colonized",70,3,2
+"R_2TYTz3QQU1emggA","Argentina","colonized",71,20,11
+"R_1gdtbFvD3MwtdVz","Argentina","colonized",70,NA,NA
+"R_0Gsb3c8vVkwUwLf","Australia","colonizer",85,1,0
+"R_2zG4iB2aVhgMobS","Australia","colonizer",71,20,5
+"R_2vcuxdSq26rb51I","Australia","colonizer",80,10,1
+"R_W6WIKYsKGaEqrBv","Australia","colonizer",66,1,23
+"R_2AZGXfC6jnL4pT3","Australia","colonizer",80,20,20
+"R_2Pt9Sa3o0PjlGJG","Australia","colonizer",99,1,1
+"R_0dEHj42UAVJICiJ","Austria","colonizer",NA,NA,NA
+"R_27pd9ihwuhJPDyS","Austria","colonizer",20,41,100
+"R_WjGMzLYJxseFycF","Austria","colonizer",65,NA,NA
+"R_2cnLbztiRKWT6JU","Belgium","colonizer",8,77,79
+"R_3fqIb7z8gDc4NaO","Brazil","colonized",80,12,18
+"R_bx6ZvjYnFcdhHln","Canada","colonized",90,0,0
+"R_1CyGUvBOBWE04gS","Canada","colonized",58,9,25
+"R_1hFMYvCDGZDKUm6","Canada","colonized",60,10,NA
+"R_3w4zjKKuyZHi1CV","China","colonizer",NA,NA,NA
+"R_BWAh5PVb4f8fM8p","China","colonizer",78,10,10
+"R_2ztD0novxQ9X8td","Colombia","colonized",90,8,5
+"R_1Fm2bMX705f3nhh","Czechia","colonized",65,31,NA
+"R_1mgXOWvI0EtRRYX","Czechia","colonized",40,68,93
+"R_3J2ThDM4kCAKPPC","Denmark","colonizer",5,95,90
+"R_1NzuCvEDbmC1r0V","Denmark","colonizer",20,9,98
+"R_2S7wqdad1PICQ7I","Finland","colonized",NA,NA,NA
+"R_1is9p2yRDFTHwda","Finland","colonized",35,40,60
+"R_3gZ2naHcQ9oscSB","Finland","colonized",70,5,NA
+"R_3qQWyKwgzY7U98T","France","colonizer",30,NA,NA
+"R_p6mHQb4LNSiequl","France","colonizer",70,30,30
+"R_2By3vEKMD4ZoNzo","France","colonizer",12,83,83
+"R_3COCd3ofx3kP0SU","Germany","colonizer",NA,NA,NA
+"R_1i3AhZLIMSSbSty","Germany","colonizer",15,60,80
+"R_12D1TVwdqsPN0zd","Germany","colonizer",NA,NA,NA
+"R_3nfnxEqjp25rF4r","Germany","colonizer",29,50,34
+"R_2UaqA5vNymgnEyO","Germany","colonizer",24,50,90
+"R_3fxv46429gA4k67","Hungary","colonizer",50,50,50
+"R_3gMYtGP0LcIsHOG","India","colonized",100,NA,NA
+"R_1PSq1OmK8Yb2zKx","India","colonized",100,NA,NA
+"R_2z5UBrJLIhWVcIY","India","colonized",90,NA,NA
+"R_33EEqu5D72QcY2V","India","colonized",100,NA,NA
+"R_1hALPxROhSnUcVC","Indonesia","colonizer",85,NA,NA
+"R_VWltR3nasDHhSq5","Italy","colonizer",70,NA,NA
+"R_21uJIK6yJsKQisr","Italy","colonizer",72,NA,NA
+"R_2fdMHnWkX4uZBgr","Italy","colonizer",NA,NA,NA
+"R_3qKWWXQW0KemDtN","Japan","colonizer",70,NA,NA
+"R_2yj8abOtrJzKIwg","Japan","colonizer",90,0,0
+"R_3G38RX1RCdzBQ03","Japan","colonizer",50,1,NA
+"R_1P0KTg0SLChIN5d","Kenya","colonized",50,30,9
+"R_2TKSMMWBTMq13GX","Mexico","colonized",83,20,20
+"R_1iagUAP0gTpQNvm","Netherlands","colonizer",15,80,82
+"R_3p0eXFd37zt0Inn","New Zealand","colonizer",80,7,1
+"R_2ZHSqb4VaFzcF5V","Norway",NA,60,50,5
+"R_p0p8iHyGDoWev05","Peru","colonized",98,NA,NA
+"R_3QK7ghxFbnWDJRP","Poland","colonized",71,2,NA
+"R_2P5VR3hHkPChADM","Romania",NA,NA,NA,NA
+"R_1MQhMDxZrzE9nig","Russia","colonizer",NA,NA,NA
+"R_6A1JQWVzgUvY0sp","Russia","colonizer",35,1,61
+"R_s4NoYhs6ESYuYCJ","Singapore","colonized",1,22,0
+"R_2PchgrYK1ro4Njp","South Africa","colonizer",95,9,8
+"R_2TFzlvJrat1u8mm","South Korea","colonized",93,1,1
+"R_2sZtWaUye8eHPHG","South Korea","colonized",90,NA,NA
+"R_Aj8RuuBqQkBM6ch","Spain","colonizer",68,7,11
+"R_OfZtmDPRBGHe2M9","Sweden","colonizer",19,35,94
+"R_2aeoIDvMWJkEEAQ","Sweden","colonizer",10,25,100
+"R_2wcpzblTVGwwVxY","Sweden","colonizer",40,70,100
+"R_2VfsPLnezQEwHcN","Switzerland",NA,19,95,94
+"R_12ruXSSLXPy2seB","Switzerland",NA,49,37,60
+"R_XZI1zxsRlEzt5SN","Taiwan","colonized",90,10,10
+"R_yUzmzp14LQPxozv","Ukraine","colonized",60,1,1
+"R_uwSQgE34vS5j72x","United Kingdom","colonizer",6,90,91
+"R_2v79BoWVP8GRxfn","United Kingdom","colonizer",NA,NA,NA
+"R_3HODPTIpOjtOo03","United States of America","colonizer",30,20,20
+"R_2sXDAgEt9pImdgc","United States of America","colonizer",37,NA,NA
+"R_1g7nzILuREBpNaP","United States of America","colonizer",70,9,NA
+"R_1dmf7ckbpRxVZmV","United States of America","colonizer",NA,NA,NA
+"R_sCnh7rkH9lWw1b3","United States of America","colonizer",50,50,1
+"R_2DOKmBtUNmFuGCm","United States of America","colonizer",20,85,80
+"R_pJzWpQXspUBh8dz","United States of America","colonizer",35,30,23
+"R_2foNTwnIZNmZPRP","United States of America","colonizer",70,36,40
+"R_120g2EV0mOujAWn","United States of America","colonizer",60,0,0
+"R_1hFIACTqjBpPpLz","United States of America","colonizer",71,10,5
+"R_1gUT3SSNs3CrhB7","United States of America","colonizer",85,10,10
+"R_1Ej3ECAkHQfkYn8","United States of America","colonizer",29,25,4
+"R_1Fu2nkVtYsII0Iq","United States of America","colonizer",73,21,1
+"R_3ikkm9reLVSj60P","United States of America","colonizer",70,10,10
+"R_2TLRwXpu2jisFXD","United States of America","colonizer",25,87,78
+"R_1Lu39Iud5iX0LBU","United States of America","colonizer",70,20,20
+"R_1gTM6vc4M8KrAhP","United States of America","colonizer",23,77,77
+"R_1kOlHAnrjj4deM6","United States of America","colonizer",70,10,10
+"R_2ZIyvFlXjLv2iq4","United States of America","colonizer",50,20,10
+"R_1n3nuExmY6lVriD","Uzbekistan","colonized",40,NA,NA
+"R_1pSUfIRf6bpkHnP","Venezuela","colonized",92,4,1
